@@ -32,3 +32,6 @@ Random, convenience, and quota samples; the topic is the desired number of child
 - It is shown how the sample selection method changes the result.
 #### Development of a falsified study
 A training exercise to recognize manipulations: biased samples, leading questions, manipulation of results.
+
+## Stack
+- R
